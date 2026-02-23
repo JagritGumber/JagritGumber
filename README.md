@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Jagrit Gumber, 20, Software Developer<br>👀 I'm a Software Developer with a passion for building responsive and intuitive web applications<br>🌱 I'm currently working on building a Video Editor<br>🦄 Experienced in React, Preact, Next, Redux, Zustand, HTML/CSS, Javascript, Typescript<br>📈 I'm looking to collaborate on exciting projects<br>📫 Reach me at gumberjagrit@gmail.com
+👋 Hi, I'm Jagrit Gumber<br>📫 Reach me at gumberjagrit@gmail.com
 
 
 ## 🌐 Socials:

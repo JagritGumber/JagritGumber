@@ -19,7 +19,7 @@ currently at **algo one ai** building load balancers and ai products.
 
 **what i've built**
 
-[pgrx](https://github.com/JagritGumber/pgrx): postgres-compatible database from scratch. beam + rust. wire protocol v3, all joins, vector search. 25 stars.
+[evolvsql](https://github.com/JagritGumber/evolvsql): postgres-compatible database from scratch. beam + rust. wire protocol v3, all joins, vector search.
 
 [sqlcx](https://github.com/JagritGumber/sqlcx): write sql once, get typed code for rust/ts/python/go. zero runtime. 10 drivers.
 

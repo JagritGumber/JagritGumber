@@ -25,8 +25,6 @@ vidful (private until v1): rust video editor with agentic ai pipeline. native de
 
 [sqlcx](https://github.com/JagritGumber/sqlcx): write sql once, get typed code for rust/ts/python/go. zero runtime. published on npm and crates.io.
 
-[agentic-stack](https://github.com/JagritGumber/agentic-stack): portable .agent/ folder (memory + skills + protocols) that plugs into claude code, cursor, windsurf, and others.
-
 [clickzig](https://github.com/JagritGumber/clickzig): clickhouse client in zig. v0.15.2.
 
 [molt.tui](https://github.com/JagritGumber/molt.tui): ai agent that posts on my behalf. wip.

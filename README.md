@@ -25,8 +25,6 @@ vidful (private until v1): rust video editor with agentic ai pipeline. native de
 
 [sqlcx](https://github.com/JagritGumber/sqlcx): write sql once, get typed code for rust/ts/python/go. zero runtime. published on npm and crates.io.
 
-[clickzig](https://github.com/JagritGumber/clickzig): clickhouse client in zig. v0.15.2.
-
 [molt.tui](https://github.com/JagritGumber/molt.tui): ai agent that posts on my behalf. wip.
 
 [particle_system_rs](https://github.com/JagritGumber/particle_system_rs): real-time particle sim in rust. macroquad.

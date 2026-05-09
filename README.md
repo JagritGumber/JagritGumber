@@ -21,4 +21,10 @@ currently at **algo one ai** building load balancers and ai products.
 
 ---
 
-rust · typescript · python · go · zig
+<p>
+  <img alt="Rust" src="https://img.shields.io/badge/rust-111111?style=for-the-badge&logo=rust&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Go" src="https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+  <img alt="Zig" src="https://img.shields.io/badge/zig-F7A41D?style=for-the-badge&logo=zig&logoColor=111111">
+</p>

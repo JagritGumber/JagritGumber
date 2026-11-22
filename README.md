@@ -1,6 +1,6 @@
 ## hey, i'm jagrit 👋
 
-product engineer. 20. delhi.
+product engineer. 21. delhi.
 
 i build fast, useful software across databases, devtools, native apps, and ai products.
 
